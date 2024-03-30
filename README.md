@@ -14,6 +14,9 @@ The project includes examples of how to define feature flags, how to check their
 
 By exploring this demo project, developers can learn best practices for implementing feature flags, understand the benefits and trade-offs of this technique, and gain insights into how to incorporate feature flags into their own applications for better control over feature releases and experimentation.
 
+## What  LaunchDarkly?
+LaunchDarkly is a feature management platform that helps software teams control the delivery of features to their applications. It allows developers to turn features on or off for specific users, segments of users, or for everyone through the use of feature flags.
+
 ## Decouple our code from their-party libraries
 
 To isolate third-party libraries in our code and make it easier to change vendors, we can use the following approach:
